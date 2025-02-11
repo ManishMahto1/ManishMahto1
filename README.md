@@ -8,7 +8,7 @@ I'm a passionate software developer with a keen interest in open-source projects
 - 👯 I’m looking to collaborate on Open Source Projects or Topics
 - 🤔 I’m looking for help with Any Specific Challenge or Project
 - 💬 Ask me about my Expertise or Interests
-- 📫 How to reach me: manishrocki2000@gmail.com
+- 📫 How to reach me: manishmahto378@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: crazy about coding
 
