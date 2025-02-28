@@ -28,7 +28,7 @@ Here are some of my notable projects:
 
 
 ## GitHub Stats
-![ManishRocki's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManishRocki&show_icons=true&theme=radical)
+![ManishRocki's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManishMahto1&show_icons=true&theme=radical)
 
 ## Connect with Me
 - https://www.linkedin.com/in/manish-mahto-116483350/
