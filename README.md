@@ -3,14 +3,6 @@
 ## About Me
 I'm a passionate software developer with a keen interest in open-source projects and cutting-edge technologies. I love exploring new programming languages and frameworks, and I'm always eager to learn and contribute to the developer community.
 
-- 🔭 I’m currently working on ESport Project
-- 🌱 I’m currently learning Next.js
-- 👯 I’m looking to collaborate on Open Source Projects or Topics
-- 🤔 I’m looking for help with Any Specific Challenge or Project
-- 💬 Ask me about my Expertise or Interests
-- 📫 How to reach me: manishmahto378@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: crazy about coding
 
 ## Skills
 - Languages: JavaScript,TypeScript,C++,Python
