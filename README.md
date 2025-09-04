@@ -2,7 +2,7 @@
 
 🚀 **Full Stack Developer | MERN Stack | Open Source Enthusiast**  
 
-💡 Passionate about building scalable web applications, solving real-world problems with clean code, and learning new technologies every day.  
+💡 Passionate about building scalable web applications, mobile application , solving real-world problems with clean code, and learning new technologies every day.  
 
 ---
 
@@ -22,15 +22,23 @@
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs)  
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)  
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)  
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)  
+
+### 📱 Mobile   
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react&logoColor=black)  
+
 
 ### ⚙️ Backend  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)  
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express)  
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)  
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)  
+
 
 ### 🗄️ Database & Tools  
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) 
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)  
 
@@ -38,10 +46,10 @@
 
 ## 📌 Featured Projects  
 
-🔹 [**PG Room Dekho**](#) – Next.js + MongoDB platform for PG listings with filters, authentication, payments, and reviews.  
-🔹 [**Esports Tournament App**](#) – Next.js & MongoDB app with squad joining, payments, and admin dashboard.  
-🔹 [**Note Taking App**](#) – React.js + Express with audio-to-text transcription.  
- 
+🔹 [**PG Room Dekho**](https://www.aapnaroom.com/) – Next.js + MongoDB platform for PG listings with filters, authentication, payments, and reviews.  
+🔹 [**Esports Tournament App**](https://www.onlineplyer.com/) – Next.js & MongoDB app with squad joining, payments, and admin dashboard.  
+🔹 [**Note Taking App**](https://note-taking-app-alpha-swart.vercel.app/) – React.js + Express with audio-to-text transcription.  
+ 🔹 [**Task Manager App**](https://task-manager-app-eight-snowy.vercel.app/) – MERN stack app with user authentication, task CRUD operations, and role-based access control.  
 
 ---
 
