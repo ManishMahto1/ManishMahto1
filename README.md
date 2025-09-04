@@ -2,7 +2,7 @@
 
 🚀 **Full Stack Developer | MERN Stack | Open Source Enthusiast**  
 
-💡 Passionate about building scalable web applications, mobile application , solving real-world problems with clean code, and learning new technologies every day.  
+💡 Passionate about building scalable web applications, mobile applications, solving real-world problems with clean code, and learning new technologies every day.  
 
 ---
 
@@ -49,7 +49,7 @@
 🔹 [**PG Room Dekho**](https://www.aapnaroom.com/) – Next.js + MongoDB platform for PG listings with filters, authentication, payments, and reviews.  
 🔹 [**Esports Tournament App**](https://www.onlineplyer.com/) – Next.js & MongoDB app with squad joining, payments, and admin dashboard.  
 🔹 [**Note Taking App**](https://note-taking-app-alpha-swart.vercel.app/) – React.js + Express with audio-to-text transcription.  
- 🔹 [**Task Manager App**](https://task-manager-app-eight-snowy.vercel.app/) – MERN stack app with user authentication, task CRUD operations, and role-based access control.  
+🔹 [**Task Manager App**](https://task-manager-app-eight-snowy.vercel.app/) – MERN stack app with user authentication, task CRUD operations, and role-based access control.  
 
 ---
 
