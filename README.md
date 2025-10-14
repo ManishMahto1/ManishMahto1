@@ -1,13 +1,13 @@
 # 👋 Hi, I'm Manish Mahto  
 
-🚀 **Full Stack Developer | MERN Stack | Open Source Enthusiast**  
+🚀 **Full Stack Developer | MERN Stack & React Native | Open Source Enthusiast**  
 
 💡 Passionate about building scalable web applications, mobile applications, solving real-world problems with clean code, and learning new technologies every day.  
 
 ---
 
 ## 🧑‍💻 About Me  
-- 🎓 B.Sc. (Hons.) in Computer Science (2022) from **Guru Ghasidas University**  
+- 🎓 B.Sc. (Hons.) in Computer Science from **Guru Ghasidas University**  
 - 💼 Worked on **E-commerce platforms, job portals, tournament apps, and automation tools**  
 - 🌱 Currently exploring **Next.js, TypeScript, and Advanced System Design**  
 - 🔭 Building **real-world full-stack projects** with React, Node.js, Express, and MongoDB  
